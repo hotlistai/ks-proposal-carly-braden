@@ -3,23 +3,23 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://makayla-johnson.knoxsignature.com"),
-  title: "Knox Signature - Makayla & Johnson Proposal",
-  description: "A client-facing Knox Signature proposal for Makayla and Johnson.",
+  metadataBase: new URL("https://carly-braden.knoxsignature.com"),
+  title: "Knox Signature - Carly & Braden Proposal",
+  description: "A client-facing Knox Signature proposal for Carly and Braden.",
   icons: {
     icon: "/ks-favicon.png",
     shortcut: "/ks-favicon.png",
     apple: "/ks-favicon.png",
   },
   openGraph: {
-    title: "Knox Signature - Makayla & Johnson Proposal",
-    description: "A client-facing Knox Signature proposal for Makayla and Johnson.",
+    title: "Knox Signature - Carly & Braden Proposal",
+    description: "A client-facing Knox Signature proposal for Carly and Braden.",
     images: ["/ks-social-cover.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Knox Signature - Makayla & Johnson Proposal",
-    description: "A client-facing Knox Signature proposal for Makayla and Johnson.",
+    title: "Knox Signature - Carly & Braden Proposal",
+    description: "A client-facing Knox Signature proposal for Carly and Braden.",
     images: ["/ks-social-cover.png"],
   },
 };
