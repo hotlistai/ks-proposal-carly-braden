@@ -20,8 +20,8 @@ const config = {
 const BANNER_IMAGE = "https://www.knoxsignature.com/images/knox-press-banner.png";
 const PREVIEW_VIDEO = "https://blog.hotlistdigital.com/wp-content/uploads/2026/01/copy_BF7A718B-4926-4B53-AD03-6D3BC8DB232F_2.mp4";
 const PREVIEW_VIDEO_POSTER = "/videos/carly-braden-man-i-need-poster.jpg";
-const MIDDLE_VIDEO = "https://blog.hotlistdigital.com/wp-content/uploads/2026/01/copy_17CF34B1-8F53-4C30-B246-EF24A67E5135_2.mp4";
-const MIDDLE_VIDEO_POSTER = "/videos/carly-braden-latch-poster.jpg";
+const MIDDLE_VIDEO = "https://blog.hotlistdigital.com/wp-content/uploads/2026/05/WeddingReception-1.mov";
+const MIDDLE_VIDEO_POSTER = "";
 const PRODUCTION_IMAGE =
   "https://raw.githubusercontent.com/hotlistai/anna-max-proposal/main/assets/Images/knox-signature-set-1.png";
 
