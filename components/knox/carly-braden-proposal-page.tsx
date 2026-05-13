@@ -9,7 +9,7 @@ const config = {
   coupleName: "Carly & Braden",
   eventDate: "December 4, 2026",
   venue: "The Reserve at Marty B's",
-  originalInvestment: "$5,500",
+  originalInvestment: "$6,500",
   totalInvestment: "$5,000",
   ceremonyCoverageOriginal: "$1,500",
   ceremonyCoverageDiscounted: "$950",
